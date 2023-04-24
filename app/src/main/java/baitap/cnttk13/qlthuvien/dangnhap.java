@@ -26,6 +26,7 @@ public class dangnhap extends AppCompatActivity {
 
         khaibao();
         ControlButton();
+        //ben a update
 
     }
     private void ControlButton(){
