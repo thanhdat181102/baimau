@@ -28,6 +28,7 @@ public class dangnhap extends AppCompatActivity {
         ControlButton();
         //ben a update
         //ben b commit
+        ///..da tuep nhan thao tac
 
     }
     private void ControlButton(){
