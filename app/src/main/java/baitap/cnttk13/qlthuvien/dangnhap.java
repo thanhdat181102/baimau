@@ -27,7 +27,7 @@ public class dangnhap extends AppCompatActivity {
         khaibao();
         ControlButton();
         //ben a update
-
+//thai tac huong dan
     }
     private void ControlButton(){
         thoatdn.setOnClickListener(new View.OnClickListener() {
